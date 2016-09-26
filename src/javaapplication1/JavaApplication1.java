@@ -16,6 +16,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         System.out.println("Hello word");
+        System.out.println("Nous allons apprendre a utiliser git");
         
     }
     
