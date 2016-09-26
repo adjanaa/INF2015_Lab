@@ -17,6 +17,7 @@ public class JavaApplication1 {
     public static void main(String[] args) {
         System.out.println("Hello word");
         System.out.println("Nous allons apprendre a utiliser git");
+        System.out.println("adgefrtrhtrhrvs  b4w6w65y vs y u w 4");
         
     }
     
